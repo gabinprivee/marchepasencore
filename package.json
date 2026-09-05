@@ -1,0 +1,12 @@
+{
+  "name": "evolution-marche-ia",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Entraînement automatique d'une IA qui apprend à marcher, par sélection génétique.",
+  "scripts": {
+    "train": "node train.js"
+  },
+  "dependencies": {
+    "cannon": "^0.6.2"
+  }
+}
